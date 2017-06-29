@@ -1,0 +1,16 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://costumerx.ru/wp-content/uploads/2012/09/logo-mortal-kombat-500x500.png" pltv-name="lista de filmes" pltv-description="filmes" pltv-cover="https://yt3.ggpht.com/-9-G2Gbymq6c/AAAAAAAAAAI/AAAAAAAAAAA/xYnfkCnLLe0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" pltv-author="fernando" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="fer-dodo@hotmail.com"
+
+################## canais ########################
+
+#EXTINF:-1 tvg-logo="http://cps-static.rovicorp.com/3/JPG_500/MI0003/868/MI0003868496.jpg?partner=allrovi.com" group-title="canal de musica" pltv-subgroup="radio", XXX NOME DO CANAL,hit tv 
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chunklist_w1572846160.m3u8
+
+#EXTINF:-1 tvg-logo="http://blog.travelemiliaromagna.com/en/wp-content/uploads/2014/12/motorshow-logo.png" group-title="canal de musica" pltv-subgroup="radio", XXX NOME DO CANAL,multi show
+http://45.55.12.66/loadbalance/74422548847129826579/chunks.m3u8?pxAuth=S6KleRQaCn5DZAQUpAIHQ48DohGpf6rA
+
+#EXTINF:-1 tvg-logo="http://conteudo.imguol.com.br/c/entretenimento/2015/04/22/em-1995-a-imagem-passa-por-novos-ajustes-e-ganha-tons-um-pouco-mais-escuros-1429717986284_500x500.jpg" group-title="canal aberto" pltv-subgroup="tv aberta", XXX NOME DO CANAL,globo
+http://104.236.152.45/loadbalance/bobosp/chunks.m3u8?pxAuth=cCYRGTgJtvCYkbha3adDpycRCxbciDpV
+
+#EXTINF:-1 tvg-logo="XXXX LINK DO LOGO DO CANAL XXX" group-title="tc" pltv-subgroup="XXX SUBGRUPOXXX", XXX NOME DO CANAL,globo
+http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/ver8b1f11ec23e010737aaed9/chunklist.m3u8?st=dJVMe5uR6UcgIbo324UFZA&e=1498857114
